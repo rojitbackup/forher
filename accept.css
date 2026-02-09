@@ -162,4 +162,51 @@ body {
 }
 
 
+/* Mobile Responsive CSS  */
+@media (max-width: 768px) {
+    body {
+        padding: 10px;
+    }
+    
+    .container {
+        padding: 1rem;
+        gap: 1rem;
+        border-radius: 15px;
+    }
+    
+    #realdeal {
+        font-size: 1.6rem;
+        padding: 0.4rem 1rem;
+    }
+    
+    .graphic > img {
+        height: 18vh;
+    }
+    
+    #giftbtn {
+        padding: 0.9rem 2rem;
+        font-size: 1.1rem;
+        width: 100%;
+        max-width: 280px;
+    }
+    
+    #gifttext {
+        font-size: 1.4rem;
+    }
+}
+
+@media (max-width: 480px) {
+    #realdeal {
+        font-size: 1.3rem;
+    }
+    
+    .graphic > img {
+        height: 15vh;
+    }
+    
+    #gifttext {
+        font-size: 1.2rem;
+    }
+}
+
 
