@@ -62,7 +62,7 @@ giftBtn.addEventListener("click", function() {
             break;
 
         default:
-            giftText.innerText = "You're the Best! I Hope You Loved Your Gifts MYCHA. I LOVE YOU SO MUCHHHHHHHHHHHHHH";
+            giftText.innerText = "You're the Best! I Hope You Loved Your Gifts MYCHA. I LOVE YOU SO MUCHHH";
             giftBtn.disabled = true;
             giftBtn.innerText = "SAKKYOOO HEHE. HAPPY VALENTINE'S MYCHA!!!";
     }
