@@ -57,7 +57,7 @@ giftBtn.addEventListener("click", function() {
         case 7:
             giftImage.removeAttribute("hidden");
             giftImage.src = "graphics/bite.gif";
-            giftText.innerText = "HAPPY VALENTINE'S MY BABY MYCHA!!! I LOVE YOU SO MUCHHHHHHHHHHHHHH";
+            giftText.innerText = "HAPPY VALENTINE'S MY BABY MYCHA!!! I LOVE YOU SO MUCHHH";
             count++;
             break;
 
