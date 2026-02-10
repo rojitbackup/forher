@@ -38,6 +38,7 @@ body {
     font-weight: 900;
     text-shadow: 2px 2px 0px rgba(0,0,0,0.05);
     margin-bottom: 10px;
+    text-align: center;
 }
 .graphic >img{
     height: 20vh;
